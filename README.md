@@ -1,2 +1,44 @@
-# igor-fuchs01
+<div align="center">
+<samp>
+    I'm a software developer
+    <br>
+    Working on web technology
+    <br>
+    <br>
+    <span style="font-size:8px">This is a SPTech student's account</span>
+</samp>
+<br> 
+<br>
 
+### Main skills:
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react)](https://skillicons.dev)
+<br>
+<br>
+[![My Skills](https://skillicons.dev/icons?i=cs,python,nodejs,java)](https://skillicons.dev)
+<br>
+<br>
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,git,docker,postman)](https://skillicons.dev)
+</picture>
+
+<p align="center">
+	<!-- <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=igor-fuchs01&show_icons=true&include_all_commits=true&theme=darcula&hide_border=true&bg_color=00000000"> -->
+	<!-- <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=igor-fuchs01&layout=compact&hide_border=true&theme=darcula&bg_color=00000000"> -->
+	<img src ="https://streak-stats.demolab.com/?user=igor-fuchs01&theme=darcula&hide_border=true&background=FFFFFF00">
+</p>
+<br>
+
+### Main Account:
+
+<p align="center">
+	<!-- <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=igor-fuchs&show_icons=true&include_all_commits=true&theme=darcula&hide_border=true&bg_color=00000000"> -->
+	<!-- <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=igor-fuchs&layout=compact&hide_border=true&theme=darcula&bg_color=00000000"> -->
+	<img src ="https://streak-stats.demolab.com/?user=igor-fuchs&theme=darcula&hide_border=true&background=FFFFFF00">
+</p>
+
+<a href="https://github.com/igor-fuchs" style="text-decoration:none;">
+  <img style="height:30px; vertical-align:middle" src="https://skillicons.dev/icons?i=github">
+  <span style="font-size:20px; vertical-align:middle">igor-fuchs</span>
+</a>
+
+</div>

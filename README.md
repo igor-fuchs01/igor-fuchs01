@@ -5,7 +5,7 @@
     Working on web technology
     <br>
     <br>
-    <span style="font-size:8px">This is a SPTech student's account</span>
+    <sub>This is a SPTech student's account</sub>
 </samp>
 <br> 
 <br>
@@ -36,9 +36,11 @@
 	<img src ="https://streak-stats.demolab.com/?user=igor-fuchs&theme=darcula&hide_border=true&background=FFFFFF00">
 </p>
 
-<a href="https://github.com/igor-fuchs" style="text-decoration:none;">
-  <img style="height:30px; vertical-align:middle" src="https://skillicons.dev/icons?i=github">
-  <span style="font-size:20px; vertical-align:middle">igor-fuchs</span>
-</a>
+<table>
+<tr>
+<td><a href="https://github.com/igor-fuchs"><img height="30" src="https://skillicons.dev/icons?i=github"></a></td>
+<td valign="middle"><a href="https://github.com/igor-fuchs" style="font-size:20px">igor-fuchs</a></td>
+</tr>
+</table>
 
 </div>
